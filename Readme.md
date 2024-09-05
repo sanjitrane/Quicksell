@@ -1,4 +1,4 @@
-# TigerHall Frontend Assignment
+# Frontend Assignment
 
 - Clone the repository.
 - npm install
